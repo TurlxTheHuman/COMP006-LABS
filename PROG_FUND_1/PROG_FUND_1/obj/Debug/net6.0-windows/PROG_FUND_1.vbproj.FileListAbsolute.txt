@@ -1,0 +1,17 @@
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\bin\Debug\net6.0-windows\PROG_FUND_1.exe
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\bin\Debug\net6.0-windows\PROG_FUND_1.deps.json
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\bin\Debug\net6.0-windows\PROG_FUND_1.runtimeconfig.json
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\bin\Debug\net6.0-windows\PROG_FUND_1.dll
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\bin\Debug\net6.0-windows\PROG_FUND_1.pdb
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.vbproj.AssemblyReference.cache
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.Form1.resources
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.vbproj.GenerateResource.cache
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.AssemblyInfoInputs.cache
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.AssemblyInfo.vb
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.vbproj.CoreCompileInputs.cache
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.dll
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\refint\PROG_FUND_1.dll
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.pdb
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\PROG_FUND_1.genruntimeconfig.cache
+C:\Users\aruss\source\repos\PROG_FUND_1\PROG_FUND_1\obj\Debug\net6.0-windows\ref\PROG_FUND_1.dll
