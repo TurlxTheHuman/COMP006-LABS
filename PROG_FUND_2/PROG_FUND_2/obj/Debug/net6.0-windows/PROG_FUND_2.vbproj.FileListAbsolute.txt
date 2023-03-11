@@ -1,0 +1,17 @@
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\bin\Debug\net6.0-windows\PROG_FUND_2.exe
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\bin\Debug\net6.0-windows\PROG_FUND_2.deps.json
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\bin\Debug\net6.0-windows\PROG_FUND_2.runtimeconfig.json
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\bin\Debug\net6.0-windows\PROG_FUND_2.dll
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\bin\Debug\net6.0-windows\PROG_FUND_2.pdb
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.vbproj.AssemblyReference.cache
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.Form1.resources
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.vbproj.GenerateResource.cache
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.AssemblyInfoInputs.cache
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.AssemblyInfo.vb
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.vbproj.CoreCompileInputs.cache
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.dll
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\refint\PROG_FUND_2.dll
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.pdb
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\PROG_FUND_2.genruntimeconfig.cache
+C:\Users\aruss\Documents\GitHub\vaults\Notes\School\Programming Fundamentals\PROG_FUND_2\PROG_FUND_2\obj\Debug\net6.0-windows\ref\PROG_FUND_2.dll
